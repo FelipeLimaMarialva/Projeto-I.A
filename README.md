@@ -1,3 +1,9 @@
+<p align="center">
+<img 
+    src="./Projeto Podcast IA/src/prompts/Capa.png"
+    width="300"
+/>
+
 # Projeto Podcast Gerado por I.A
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
